@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# - Name : Devi Venkata Sai Sriram Chandra
-# - ID.No: 5989499046
-
-# ### Task 1: Vocabulary Creation 
-
-# In[1]:
-
 
 def load_and_preprocess_data(filename, threshold=3):
     # Initialize a dictionary to count occurrences of each word
